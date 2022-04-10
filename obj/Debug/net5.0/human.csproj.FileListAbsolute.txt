@@ -1,0 +1,15 @@
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/human/bin/Debug/net5.0/human.deps.json
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/human/bin/Debug/net5.0/human.runtimeconfig.json
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/human/bin/Debug/net5.0/human.runtimeconfig.dev.json
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/human/bin/Debug/net5.0/human.dll
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/human/bin/Debug/net5.0/ref/human.dll
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/human/bin/Debug/net5.0/human.pdb
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/human/obj/Debug/net5.0/human.csproj.AssemblyReference.cache
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/human/obj/Debug/net5.0/human.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/human/obj/Debug/net5.0/human.AssemblyInfoInputs.cache
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/human/obj/Debug/net5.0/human.AssemblyInfo.cs
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/human/obj/Debug/net5.0/human.csproj.CoreCompileInputs.cache
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/human/obj/Debug/net5.0/human.dll
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/human/obj/Debug/net5.0/ref/human.dll
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/human/obj/Debug/net5.0/human.pdb
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/human/obj/Debug/net5.0/human.genruntimeconfig.cache
