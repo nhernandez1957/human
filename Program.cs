@@ -6,15 +6,22 @@ namespace human
     {
         static void Main(string[] args)
         {
-            Human h1 = new Human("Nicholas");
+            Ninja n1 = new Ninja("Nicholas");
+            // n1.showSats();
 
-            Console.WriteLine($"I am {h1.Name}. My attributes are strength = {h1.Strength}, intelligence = {h1.Intelligence}, dexterity = {h1.Dexterity}, health = {h1.Health}.");
-            
-            Human h2 = new Human("Bobbothy", 5, 2, 7, 100);
+            Wizard w1 = new Wizard("Bobbothy");
+            // w1.showSats();
 
-            Console.WriteLine($"I am {h2.Name}. My attributes are strength = {h2.Strength}, intelligence = {h2.Intelligence}, dexterity = {h2.Dexterity}, Health = {h2.Health}.");
-            
-            h1.Attack(h2);
+            Samurai s1 = new Samurai("Ezio");
+            // s1.showSats();
+
+            // w1.Attack(s1);
+            // s1.Meditate();
+            // s1.Attack(w1);
+            s1.Attack(n1);
+            s1.Attack(n1);
+            s1.Attack(n1);
+            s1.Attack(n1);
         }
     }
 }
